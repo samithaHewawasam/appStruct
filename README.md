@@ -1,3 +1,3 @@
 # appStruct
 
-Angular Application Foldder Structure
+Angular Application Folder Structure
